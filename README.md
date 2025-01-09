@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="./images/TopDown.jpg" width="600" height="400"/>
+<img src="./images/Bottom_Thermo.jpg" width="600" height="400"/>
 </p>
 
 
@@ -23,6 +23,10 @@
 
 7. **Display**: Monitor live the current status
 
+<p align="center">
+<img src="./images/TOP_Display.jpg" width="600" height="444"/>
+</p>
+
 8. **LoRa**: Operate the Device in remote areas without Wifi in Standalone mode
 
 9. **RGB LED**: Status LED
@@ -34,7 +38,7 @@
 </p>
 
 <p align="center">
-<img src="./images/BOTTOM.jpg" width="600" height="444"/>
+<img src="./images/Bottom.jpg" width="600" height="444"/>
 </p>
 
 
