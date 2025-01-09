@@ -1,7 +1,7 @@
 # SenseLoRaCAMSpeaker: The Programmable Addon Board for Xiao Sense S3 for LoRa and Audio
 
 
-<p align="center">
+<p align="center"> 
 <img src="./Images/Bottom_Thermo.jpg" width="600" height="400"/>
 </p>
 
